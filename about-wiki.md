@@ -2,4 +2,4 @@
 
 新生大学wiki 是一个开源的wiki系统
 
-![heihei](cover/cover.jpg)
+![heihei](cover/cover.png)
