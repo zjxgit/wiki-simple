@@ -16,6 +16,6 @@
 
 生活中我们早晚会遇到各式各样的问题，我们会调整模式，在极端的逆境中，想办法不被击败。
 
-[新生大学](xinshengdaxue.com)
+[go新生大学](xinshengdaxue.com)
 
 ![haha](cover/background.jpg)
